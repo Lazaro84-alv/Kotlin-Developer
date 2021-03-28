@@ -1,1 +1,24 @@
-# DIO---Bootcamp-everis-Kotlin-Developer
+# Digital Innovation One Bootcamp-everis-Kotlin-Developer concluindo em 17/03/2021
+
+- Lógica de programação essencial
+- Aprenda o que são Estrutura de Dados e Algoritmos
+- Introdução ao Git e ao GitHub
+- Introdução ao Kotlin
+- Fundamentos de Orientação a Objetos com Kotlin
+- Introdução a programação em Kotlin
+- Introdução a arquitetura da plataforma Android
+- Trabalhando com o Android Studio e principais ferramentas
+- Aplicando conceitos de Coleções, Arrays e Listas
+- Melhores práticas para debugging, tratamento de erros e exceções
+- Projetando o primeiro aplicativo Android usando Kotlin
+- Desenvolvimento integrado de dados com SQLite no Android
+- Aplicando TDD e padrões de testes no desenvolvimento de aplicativos Android
+- Conceitos de navegação, aparência e estilo de aplicativos Android
+- ViewModel e Lifecycle para melhor experiência em aplicativos Android
+- Desenvolvimento integrado de aplicações Android
+- Solucionando problemas em Kotlin
+- Utilizando recursos nativos do Android
+- Princípios do desenvolvimento Kotlin com Clean Architecture e MVVN
+- Trabalhando com processamento assíncrono no Android
+- Padrões e convenções profissionais de codificações com Kotlin
+- Praticando programação em Kotlin
